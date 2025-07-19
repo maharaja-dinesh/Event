@@ -1,0 +1,17 @@
+.one{
+    text-align: center;
+    color: aliceblue;
+background-color: black;
+margin-top: 10px;
+padding: 30px;
+}
+.two{
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    padding: 50px;
+    border-style: solid;
+    border-color: brown;
+    border-width: 20px;
+    
+}

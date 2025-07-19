@@ -1,0 +1,16 @@
+.one{
+ background-color: rgb(15, 15, 15);
+ height: 100px;
+ width: 100px;
+}
+.two{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+h2{
+    background-color: yellow;display:inline;
+}
+p{
+    background-color: black;display: inline;
+}
